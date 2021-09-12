@@ -1,2 +1,2 @@
 # EcommercyDjango
-Day la Django
+pip install django
